@@ -1,1 +1,1 @@
-# my-game
+The game is analogous to Tetris, but in fact it is antitetris. The rules of the game are simple: you can remove a cluster of cubes when there are at least 2 cubes of the same color nearby. The game is won when there are 0 dice remaining. You can change the difficulty and much more.
